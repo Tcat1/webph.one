@@ -42,7 +42,7 @@ Even though there is the list where you can write and will be seen for all the m
 
 ● Rodrigo Monelos: my contribution to the project has been mainly as scrum master, product owner and tester.
 
-● ...
+● Thomas Cameron: GM SayCel Nicaragua, Contribution Human Center-Design for pearlcel.webph.one and tester.
 
 ## Your feedback is key for our improvement
 
